@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="APITestSuite" parallel="false">
+    <test name="APITests">
+        <classes>
+            <class name="com.chaitrachidananda11.ex02.RA_TestNG_Allure.APITesting005_TC_TestNGFix"/>
+        </classes>
+    </test>
+</suite>

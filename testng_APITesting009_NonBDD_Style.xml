@@ -3,7 +3,7 @@
 <suite name="Suite1" verbose="1">
     <test name="RestAPITestPrograms">
         <classes>
-            <class name="com.chaitrachidananda11.ex02.RA_TestNG_Allure.APITesting005_TC_TestNGFix"/>
+            <class name="com.chaitrachidananda11.ex04_post_Non_Bdd_Style.APITesting009_Non_BDD_Style"/>
         </classes>
 
     </test>
